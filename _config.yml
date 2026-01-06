@@ -20,10 +20,12 @@ author: Ryan McClure, PhD
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About : "aboutme"
+  Services and Projects : "projects"
+  Contact : "contact"
+  
   Resources:
-    - GLM AED: "https://beautifuljekyll.com"
-    - AI tools: "https://www.markdowntutorial.com/"
+    - GLM AED: "https://github.com/AquaticEcoDynamics/glm-aed"
 
 ################
 # --- Logo --- #
@@ -49,23 +51,20 @@ title-img: "/assets/img/logo_mclake.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ryan333@vt.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  github: "https://github.com/ryanmclake/mclakeconsulting.github.io"
   twitter: daattali
-  patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/ryan-mcclure-phd-a79809164/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +14065816925
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -73,8 +72,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-6370-3852
+  google-scholar: "https://scholar.google.com/citations?user=kGxsHkIAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -85,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: McLake Consulting Projects
 
 ###########################
 # --- General options --- #
@@ -93,8 +92,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
