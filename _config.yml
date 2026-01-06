@@ -53,18 +53,18 @@ title-img: "/assets/img/logo_mclake.png"
 social-network-links:
   email: "ryan333@vt.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "https://github.com/ryanmclake/mclakeconsulting.github.io"
-  twitter: daattali
-  youtube: "@daattali"
+  github: "https://github.com/ryanmclake/"
+#  twitter: daattali
+#  youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: "https://www.linkedin.com/in/ryan-mcclure-phd-a79809164/"
+  linkedin: /ryan-mcclure-phd-a79809164/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +14065816925
+#  telephone: +14065816925
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -134,7 +134,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+# page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -151,7 +151,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+ page-img: "/assets/img/logo_mclake.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
