@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: What is environmental forecasting?
+subtitle: A single prediction is only part of the story
+cover-img: /assets/img/ecoforecastingloop.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
