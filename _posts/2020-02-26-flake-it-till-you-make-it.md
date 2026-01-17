@@ -2,9 +2,9 @@
 layout: post
 title: What is environmental forecasting?
 subtitle: A single prediction is only part of the story
-cover-img: /assets/img/ecoforecastingloop.jpg
-thumbnail-img: /assets/img/ecoforecastingloop.png
-share-img: /assets/img/ecoforecastingloop.jpg
+cover-img: /assets/img/fcr_1.jpg
+thumbnail-img: /assets/img/fcr_1.jpg
+share-img: /assets/img/fcr_1.jpg
 author: Ryan McClure, PhD
 ---
 
